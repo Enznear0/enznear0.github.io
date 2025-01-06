@@ -22,6 +22,7 @@ tags: about
   </p>
 </section>
 
+<!--
 <section style="margin: 40px 0;">
   <h2 style="font-size: 2.5em; color: #2C3E50;">Featured Projects</h2>
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
@@ -42,6 +43,7 @@ tags: about
     </div>
   </div>
 </section>
+-->
 
 <hr>
 
