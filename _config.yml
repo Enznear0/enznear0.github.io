@@ -25,16 +25,16 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: saikiransripada
-twitter_username: wp_user
-linkedin_username: saikiransripada
+github_username: Enznear0
+twitter_username: null
+linkedin_username: jimin-son-04588b319
 dev_username: dev_user
 
 # Post sharing icons
 show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
-share_twitter: true
+share_twitter: false
 share_googleplus: true
 share_linkedin: true
 share_digg: true
