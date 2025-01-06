@@ -8,3 +8,12 @@ categories: jekyll mixyll
 
 
 empty post?
+
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://drive.google.com/file/d/1hOTFVvVHS9kOT3JCqqMhYxg_PDd6pHaB/view?usp=drive_link "Go google"
