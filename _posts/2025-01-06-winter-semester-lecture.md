@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Semester - Photodynamic Therapy
-date: 2025-01-06 13:06:00 +0000
+date: 2025-01-06 13:06
 summary: Photodynamic Therapy by Prof. Gwon Tae Hyeok
 categories: jekyll mixyll
 ---
