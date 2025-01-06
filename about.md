@@ -11,15 +11,14 @@ tags: about
 </div>
 
 <div style="text-align: center; margin: 20px;">
-  <img src="/path-to-your-image.jpg" alt="Jimin Son" style="width: 200px; border-radius: 50%;">
+  <img src="/imgs/about-profile-image.jpg" alt="Jimin Son" style="width: 200px; border-radius: 50%;">
 </div>
-
 <hr>
 
 <section style="margin: 40px 0;">
   <h2 style="font-size: 2.5em; color: #2C3E50;">Who Am I?</h2>
   <p style="font-size: 1.2em; line-height: 1.6;">
-    Hi! I’m Jimin Son, a passionate developer and a tech enthusiast. This blog serves as a platform to share my journey, showcase my projects, and connect with like-minded individuals. From coding experiments to research insights, you’ll find it all here.
+    Hi! I’m Jimin Son, an undergraduate student of UNIST. This blog serves as a platform to share my journey, showcase my projects, and connect with like-minded individuals. From coding experiments to research insights, you’ll find it all here.
   </p>
 </section>
 
@@ -65,7 +64,7 @@ tags: about
 <section style="margin: 40px 0; text-align: center;">
   <h2 style="font-size: 2.5em; color: #2C3E50;">Stay Connected</h2>
   <p style="font-size: 1.2em; line-height: 1.6;">
-    Check out my <a href="https://github.com/saikiransripada/mixyll">Github repository</a> to explore my code, request features, report bugs, or contribute. It's free and open-source under the <a href="http://opensource.org/licenses/MIT">MIT license</a>.
+    Check out my <a href="https://github.com/Enznear0/Enznear0.github.io">Github repository</a> to explore my code, request features, report bugs, or contribute.
   </p>
 </section>
 
