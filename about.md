@@ -6,7 +6,6 @@ tags: about
 ---
 
 Jimin Son (손지민)의 Github 블로그
---
 
 ## Big Letters!!
 
